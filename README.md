@@ -5,4 +5,5 @@
 然后```python app.py```  
 其中Flask的代码主要在app.py中  
 前端html文件在templates文件中  
-其中包括前端页面设计，还有部分功能函数
+其中包括前端页面设计，还有部分功能函数  
+参考博客：https://blog.csdn.net/qq_46750053/article/details/133035447?spm=1001.2014.3001.5501
